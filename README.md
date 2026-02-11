@@ -1,3 +1,5 @@
+# just use base cc honestly 
+base cc already has character shit
 # CompleteCook
  
 This engine is open source built from mostly from scratch code meant to rectify decomps having too much assets.
